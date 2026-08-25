@@ -3,3 +3,6 @@
 -  Focada em **Python, HTML e CSS**
 -  Preparando-se para o mercado de tecnologia
 -  Contato: amandagabrielessantos@gmail.com
+
+<div style="display: inline_block"><br>
+<img align="center" alt="Python" height="40" width="40"
