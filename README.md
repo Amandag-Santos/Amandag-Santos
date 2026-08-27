@@ -1,8 +1,15 @@
-# Olá, eu sou a Amanda Santos!
--  Estudante de Desenvolvimento de Sistemas na Etec
--  Focada em **Python, HTML e CSS**
--  Preparando-se para o mercado de tecnologia
--  Contato: amandagabrielessantos@gmail.com
+### Olá! Eu sou a Amanda Gabriele 👋
 
-<div style="display: inline_block"><br>
-<img align="center" alt="Python" height="40" width="40"
+Sou estudante de **Desenvolvimento de Sistemas** na ETEC e estou em transição de carreira para a área de Tecnologia.
+
+📚 **O que estou aprendendo no momento:**
+- Lógica de Programação
+- Python ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+🎯 **Meus objetivos:**
+- Conquistar minha primeira oportunidade (Estágio ou Júnior) em Tecnologia ou Backoffice (Home Office).
+- Desenvolver pequenos projetos e automações com Python.
+
+📫 **Como me encontrar:**
+- [LinkedIn](coloque o link do seu linkedin aqui)
+- E-mail: coloque-seu-email-aqui
