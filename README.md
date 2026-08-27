@@ -4,7 +4,7 @@ Sou estudante de **Desenvolvimento de Sistemas** na ETEC e estou em transição 
 
 📚 **O que estou aprendendo no momento:**
 - Lógica de Programação
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- <img src="[https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)" width="18"/> Python
   
 🎯 **Meus objetivos:**
 - Conquistar minha primeira oportunidade (Estágio ou Júnior) em Tecnologia ou Backoffice (Home Office).
