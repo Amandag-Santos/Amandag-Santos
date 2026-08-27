@@ -4,12 +4,12 @@ Sou estudante de **Desenvolvimento de Sistemas** na ETEC e estou em transição 
 
 📚 **O que estou aprendendo no momento:**
 - Lógica de Programação
-- <img src="[https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)" width="18"/> Python
+- Python
   
 🎯 **Meus objetivos:**
-- Conquistar minha primeira oportunidade (Estágio ou Júnior) em Tecnologia ou Backoffice (Home Office).
+- Conquistar minha primeira oportunidade (Estágio ou Júnior) em Tecnologia.
 - Desenvolver pequenos projetos e automações com Python.
 
 📫 **Como me encontrar:**
-- [LinkedIn](coloque o link do seu linkedin aqui)
-- E-mail: coloque-seu-email-aqui
+- [LinkedIn](www.linkedin.com/in/amanda-santos-57831339b)
+- E-mail: amandagabrielessantos@gmail.com
