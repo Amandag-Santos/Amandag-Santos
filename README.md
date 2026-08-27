@@ -11,5 +11,5 @@ Sou estudante de **Desenvolvimento de Sistemas** na ETEC e estou em transição 
 - Desenvolver pequenos projetos e automações com Python.
 
 📫 **Como me encontrar:**
-- LinkedIn: (www.linkedin.com/in/amanda-santos-57831339b)
+- LinkedIn: www.linkedin.com/in/amanda-santos-57831339b
 - E-mail: amandagabrielessantos@gmail.com
