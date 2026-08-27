@@ -7,7 +7,7 @@ Sou estudante de **Desenvolvimento de Sistemas** na ETEC e estou em transição 
 - Python
   
 🎯 **Meus objetivos:**
-- Conquistar minha primeira oportunidade (Estágio ou Júnior) em Tecnologia.
+- Ingressar na minha primeira oportunidade (Estágio ou Júnior) em Tecnologia.
 - Desenvolver pequenos projetos e automações com Python.
 
 📫 **Como me encontrar:**
