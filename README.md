@@ -13,5 +13,4 @@ Sou estudante de **Desenvolvimento de Sistemas** na ETEC e estou em transição 
 📫 **Como me encontrar:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-santos-57831339b) 
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox)
