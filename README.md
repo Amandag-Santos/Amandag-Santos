@@ -4,7 +4,7 @@ Sou estudante de **Desenvolvimento de Sistemas** na ETEC e estou em transição 
 
 📚 **O que estou aprendendo no momento:**
 - Lógica de Programação
-- Python
+- Python, HTML, CSS e Java
   
 🎯 **Meus objetivos:**
 - Ingressar na minha primeira oportunidade (Estágio ou Júnior) em Tecnologia.
